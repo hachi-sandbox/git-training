@@ -7,5 +7,4 @@ add comment
 
 add more comment
 
-
-master でへんこうしたよ
+subブランチで修正したよ
