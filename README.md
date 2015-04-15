@@ -6,3 +6,5 @@ My Git Training
 add comment
 
 add more comment
+
+ほげほげ
