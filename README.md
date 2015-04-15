@@ -7,5 +7,3 @@ add comment
 
 add more comment
 
-
-master でへんこうしたよ
