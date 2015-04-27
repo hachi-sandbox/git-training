@@ -10,4 +10,5 @@ master でへんこうしたよ
 hogehoge
 add more comment
 
-サブの修
+ほげ
+ふが
