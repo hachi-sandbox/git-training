@@ -10,4 +10,4 @@ master でへんこうしたよ
 hogehoge
 add more comment
 
-サブの修正
+サブの修
