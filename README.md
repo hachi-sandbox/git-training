@@ -5,8 +5,7 @@ My Git Training
 
 add comment
 
-master でへんこうしたよ
-
+subブランチで修正したよ
 hogehoge
 add more comment
 
