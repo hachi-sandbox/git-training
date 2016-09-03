@@ -9,7 +9,3 @@ master でへんこうしたよ
 
 hogehoge
 add more comment
-
-ほげ
-ふが
-ふむー
